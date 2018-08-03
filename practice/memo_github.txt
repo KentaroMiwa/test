@@ -1,0 +1,7 @@
+
+git clone [URL]
+git add [file]
+git commit -m "coment"
+git push -u origin master
+git pull origin master
+
